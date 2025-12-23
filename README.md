@@ -9,7 +9,7 @@ Analisis sentimen dilakukan menggunakan pendekatan **machine learning**, dengan 
 
 ## Dataset
 - Sumber data: **Ulasan Google Maps Mal Pelayanan Publik Kota Denpasar**
-- Teknik pengumpulan: **Crawling manual**
+- Teknik pengumpulan: **Crawling Google Maps**
 - Jumlah data awal: **70 ulasan**
 - Jumlah kelas sentimen: **3 kelas**
   - Positif
